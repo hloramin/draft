@@ -1,2 +1,2 @@
 # draft
-My python scripts
+These scripts are written in Python.
